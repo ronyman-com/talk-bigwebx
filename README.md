@@ -6,9 +6,9 @@ The comment box requires Auth0 authentication for users to add new comments. A u
 
 Comments are stored in Serverless Redis ([Upstash](http://upstash.com/)).
 
-### Demo
+### Talk bigwebx
 
-[https://blog-with-comment.vercel.app/](https://blog-with-comment.vercel.app/)
+[https://talk.bigwebx.com/](https://talk.bigwebx.com/)
 
 ## `1` Project set up
 
