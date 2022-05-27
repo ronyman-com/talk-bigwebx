@@ -12,6 +12,9 @@ function Header() {
           <Link href="/posts">
             <a>Posts</a>
           </Link>
+          <Link href="https://bigwebx.com/">
+            <a>Back to bigbwebx</a>
+          </Link>
         </nav>
       </Container>
     </header>
